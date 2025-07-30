@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Icon Generator</title>
+    <style>
+        canvas {
+            border: 1px solid #ccc;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Icon Generator for Ticketing Macro</h1>
+    
+    <canvas id="icon16" width="16" height="16"></canvas>
+    <canvas id="icon48" width="48" height="48"></canvas>
+    <canvas id="icon128" width="128" height="128"></canvas>
+    
+    <script>
+        function drawIcon(canvasId, size) {
+            const canvas = document.getElementById(canvasId);
+            const ctx = canvas.getContext('2d');
+            
+            // 배경
+            ctx.fillStyle = '#667eea';
+            ctx.fillRect(0, 0, size, size);
+            
+            // 티켓 아이콘
+            ctx.fillStyle = 'white';
+            ctx.font = `${size * 0.6}px Arial`;
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText('🎫', size/2, size/2);
+            
+            // 다운로드 링크 생성
+            const link = document.createElement('a');
+            link.download = `${canvasId}.png`;
+            link.href = canvas.toDataURL();
+            link.textContent = `Download ${canvasId}.png`;
+            link.style.display = 'block';
+            link.style.margin = '10px';
+            document.body.appendChild(link);
+        }
+        
+        drawIcon('icon16', 16);
+        drawIcon('icon48', 48);
+        drawIcon('icon128', 128);
+    </script>
+</body>
+</html> 
