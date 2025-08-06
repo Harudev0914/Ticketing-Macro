@@ -1,3 +1,7 @@
+![title](https://i.gifer.com/xK.gif)   
+
+---
+
 ## 🚀 기능 소개
 
 >**티켓팅은 속도 싸움입니다. <br>
