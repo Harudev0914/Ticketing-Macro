@@ -1,4 +1,14 @@
-![title](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ0ejcxczR6NWdmY25yejhyOHppOWs5Z2V5OG41b2U1ZXE1aW44ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZqRlqE7AJuaA/giphy.gif)   
+![title](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxbWIya2k5d2poNWhjdjd0N3Vmbnh3OWpucHFlbzcwYmRjbHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WS6N5Ib1duM0dHIPRb/giphy.gif)   
+
+---
+
+| Frontend                                                                                                                  | Backend                                                                                                          | Automation / Macro                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> React                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" /> Svelte             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /> FastAPI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" /> Selenium |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> Flask       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" /> ChromeDriver |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> JavaScript | –                                                                                                                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" /> PyAutoGUI    |
+
 
 ---
 
