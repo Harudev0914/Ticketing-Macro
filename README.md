@@ -1,6 +1,6 @@
 ![title](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxbWIya2k5d2poNWhjdjd0N3Vmbnh3OWpucHFlbzcwYmRjbHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WS6N5Ib1duM0dHIPRb/giphy.gif)   
   
---- 
+---  
  
 ## 🛠️ Tech Stack 
 | Frontend                                                                                                                  | Backend                                                                                                          | Automation / Macro                                                                                                  |
